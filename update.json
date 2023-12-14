@@ -4,8 +4,8 @@
     "author" : "Lewis",
     "author_profile" : "lewis",
     "donate_link" : "lewis",
-    "version" : "1.0",
-    "download_url" : "aaa",
+    "version" : "1.1",
+    "download_url" : "https://github.com/lewiscombey/qswp/archive/refs/tags/1.1.zip",
     "requires" : "5.6",
     "tested" : "6.1",
     "requires_php" : "5.6",
@@ -13,9 +13,9 @@
     "last_updated" : "2023-12-14 15:45:00",
     "homepage" : "test",
     "sections" : {
-        "description" : "Test 3",
+        "description" : "Test 4",
         "installation" : "Click the activate button and that's it.",
-        "changelog" : "V1.0 Released"
+        "changelog" : "V1.1 Released"
     },
     "banners" : {
         "low" : "test",
